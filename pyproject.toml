@@ -10,7 +10,7 @@ dependencies = [
     "m3u8",
     "mutagen",
     "pillow",
-    "pywidevine",
+    "git+https://github.com/shabbirmahmud/pywidevine.git",
     "yt-dlp",
 ]
 readme = "README.md"
